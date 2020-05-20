@@ -1,0 +1,5 @@
+
+https://github.com/cs231n/gcloud
+http://cs231n.github.io/python-numpy-tutorial/
+http://cs231n.github.io/ipython-tutorial/
+
